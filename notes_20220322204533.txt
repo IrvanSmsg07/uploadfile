@@ -1,0 +1,8 @@
+03.22 20.45
+$apt update && apt upgrade (tekan enter)
+$apt install git (tekan enter)
+$apt install python2 (tekan enter)
+$pip2 install menchanize (tekan enter)
+$git clone https://github.com/irvansmsg/unggahdata, (tekan enter)
+$cd unggahdata (tekan enter)
+$sh new.sh (tekan enter)
